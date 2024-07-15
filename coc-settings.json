@@ -1,0 +1,27 @@
+{
+    "languageserver": {
+    },
+
+    "explorer.width": 30,
+    "explorer.icon.enableNerdfont": true,
+    "explorer.previewAction.onHover": false,
+    "explorer.keyMappings.global": {
+        "<cr>": ["expandable?", "expand", "open"],
+        "v": "open:vsplit",
+        "h": "open:split"
+    },
+    "explorer.git.enable": true,
+
+    "pyright.disableDiagnostics": true,
+    "pyright.inlayHints.functionReturnTypes": false,
+    "pyright.inlayHints.variableTypes": false,
+
+    "clangd.enabled": false,
+    "clangd.inlayHints.enable": false,
+    "clangd.disableCompletion": true,
+    "clangd.disableDiagnostics": true,
+    "clangd.disableSnippetCompletion": true,
+    "clangd.disableProgressNotifications": true,
+    "clangd.path": "C:/Program Files/LLVM/bin/clangd.exe"
+}
+
